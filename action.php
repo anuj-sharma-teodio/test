@@ -130,6 +130,5 @@ if(isset($_REQUEST['type']) && !empty($_REQUEST['type'])){
             echo '{"status":"INVALID"}';
     }
     
-    echo 'hello';
 
 }
